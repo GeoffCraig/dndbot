@@ -23,7 +23,7 @@ function charRoll(cb) {
 
 module.exports = robot => {
   
-  robot.respond( 'roll new character', msg => {
+  robot.respond( /roll new character/, msg => {
     msg.reply( charRoll() );
   } );
 };
