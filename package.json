@@ -27,6 +27,7 @@
     "mkdirp": "^0.5.1",
     "moment-precise-range": "^0.1.1",
     "request": "^2.65.0",
+    "roll": "^1.2.0",
     "untildify": "^2.1.0"
   },
   "devDependencies": {
